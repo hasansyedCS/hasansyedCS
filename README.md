@@ -26,11 +26,6 @@ I'm a Computer Science student passionate about **data science, software develop
 - Built a dashboard in Tableau highlighting **why certain anime perform poorly**
 - [View Project on GitHub](https://github.com/hasansyedCS/anime-viewer-preferences)
 
-### Data Analytics Portfolio
-- Various datasets analyzed using **SQL and Excel**
-- Visualizations created with **Tableau** for actionable insights
-- Includes exploratory data analysis, trends, and reporting examples
-
 ---
 
 ## 📫 Connect with Me
