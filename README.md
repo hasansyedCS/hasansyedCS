@@ -14,7 +14,7 @@ I'm a Computer Science student passionate about **data science, software develop
 ## 💻 Skills
 - **Programming & Tools:** SQL, Excel, Tableau, Jupyter Notebook 
 - **Data Analysis:** Data cleaning, visualization, and insights extraction
-- **Other Interests:** Japanese (language and novels), fitness, Islamic knowledge, creative writing
+- **Other Interests:** Japanese (language and novels), fitness, creative writing
 
 ---
 
