@@ -5,7 +5,7 @@ I'm a Computer Science student passionate about **data science, software develop
 ---
 
 ## 🔭 Current Focus
-- Learning **data analysis and visualization** with Python, SQL, and Tableau
+- Learning **data analysis and visualization** with Python, SQL, Excel, and Tableau
 - Improving **academic and practical knowledge** in CS and analytics
 - Building a portfolio of projects to showcase **problem-solving and data storytelling**
 
