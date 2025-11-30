@@ -20,7 +20,7 @@ I'm a Computer Science student passionate about **data science, software develop
 
 ## 📊 Featured Projects
 
-### Anime Viewer Preferences Analysis
+### Anime Ratings & Popularity: Uncovering Trends in Viewer Behavior
 - Analyzed anime datasets to uncover trends in **ratings, popularity, and viewer behavior**
 - Cleaned and processed raw data using **Excel**
 - Built a dashboard highlighting **why certain anime perform poorly**
