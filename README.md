@@ -23,7 +23,7 @@ I'm a Computer Science student passionate about **data science, software develop
 ### Anime Ratings & Popularity: Uncovering Trends in Viewer Behavior
 - Analyzed anime datasets to uncover trends in **ratings, popularity, and viewer behavior**
 - Cleaned and processed raw data using **Excel**
-- Built a dashboard highlighting **why certain anime perform poorly**
+- Built a dashboard in Tableau highlighting **why certain anime perform poorly**
 - [View Project on GitHub](https://github.com/hasansyedCS/anime-viewer-preferences)
 
 ### Data Analytics Portfolio
