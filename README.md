@@ -1,6 +1,6 @@
 # 😎 About Me
 
-I'm a Computer Science student passionate about **data science, and cloud engineering**. I love exploring complex problems, building projects that make a genuine impact, and sharing my learning journey.
+I'm a Computer Science student passionate about **cloud engineering & data science**. I love exploring complex problems, building projects that make a genuine impact, and sharing my learning journey.
 
 ---
 
