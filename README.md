@@ -1,30 +1,27 @@
-# 😎 About Me
+# ☁️ Hasan Syed | Cloud Architect in Training
 
-I'm a Computer Science student passionate about **cloud engineering & data science**. I love exploring complex problems, building projects that make a genuine impact, and sharing my learning journey.
+I am a Computer Science student at **Arizona State University** dedicated to mastering the design and deployment of high-availability, scalable systems. My focus lies at the intersection of **Infrastructure as Code (IaC), Serverless Computing, and Global Cloud Strategy.**
 
 ---
 
 ## 🔭 Current Focus
-- Learning **data analysis and visualization** with Python, SQL, Excel, and Tableau
-- Improving **academic and practical knowledge** in CS and analytics
-- Building a portfolio of projects to showcase **problem-solving and data storytelling**
+- **AWS Solutions Architecture:** VPC networking, IAM security, and cost-optimized design patterns.
+- **Infrastructure Automation:** Building reproducible, self-healing environments via **Terraform** and **Docker**.
+- **Sovereign Systems:** Applying rigorous CS principles to cloud scaling and disaster recovery protocols.
 
 ---
 
 ## 💻 Skills
-- **Programming & Tools:** SQL, Excel, Tableau, Jupyter Notebook 
-- **Data Analysis:** Data cleaning, visualization, and insights extraction
-- **Other Interests:** Japanese (language and novels), fitness, creative writing
+- **Cloud & Platforms:** AWS (SAA-C03), Linux (System Admin), Serverless (Lambda/DynamoDB)
+- **DevOps & Tooling:** Terraform (IaC), Docker, Git/GitHub Actions (CI/CD), Bash Scripting
+- **Languages:** Python (Cloud Automation), C++, SQL (PostgreSQL/RDS)
+- **Other Interests:** Japanese Literature & Media, Fitness, Creative Writing
 
 ---
 
-## 📊 Featured Projects
-
-### Anime Ratings & Popularity: Uncovering Trends in Viewer Behavior
-- Analyzed anime datasets to uncover trends in **ratings, popularity, and viewer behavior**
-- Cleaned and processed raw data using **Excel**
-- Built a dashboard in Tableau highlighting **why certain anime perform poorly**
-- [View Project on GitHub](https://github.com/hasansyedCS/anime-viewer-preferences)
+## 📊 Active Builds
+- **Serverless Portfolio:** Deploying a high-availability personal site using S3, CloudFront, and Route53.
+- **VPC Blueprint:** Using Terraform to provision secure, multi-tier AWS network environments.
 
 ---
 
