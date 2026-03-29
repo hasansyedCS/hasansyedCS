@@ -1,4 +1,4 @@
-# ☁️ Hasan Syed | Cloud Architect in Training
+# ☁️ Hasan Syed
 
 I am a Computer Science student at **Arizona State University** dedicated to mastering the design and deployment of high-availability, scalable systems. My focus lies at the intersection of **Infrastructure as Code (IaC), Serverless Computing, and Global Cloud Strategy.**
 
