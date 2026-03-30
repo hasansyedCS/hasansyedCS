@@ -26,5 +26,5 @@ Computer Science student at Arizona State University (4.0 GPA) pursuing cloud en
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: linkedin.com/in/hasansyed9991
+- LinkedIn: [linkedin.com/in/hasansyed9991](https://linkedin.com/in/hasansyed9991)
 - Email: hasansyed730@gmail.com
