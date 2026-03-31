@@ -4,13 +4,6 @@ Computer Science student at Arizona State University (4.0 GPA) pursuing backend 
 
 ---
 
-## 🔭 Current Focus
-- **AWS Solutions Architecture:** VPC networking, IAM security, design patterns.
-- **Infrastructure Automation:** Building with **Terraform** and **Docker**.
-- **Cloud Systems:**  Building and deploying scalable systems using AWS
-
----
-
 ## 💻 Skills
 - **Cloud & Platforms:** AWS (SAA-C03), Linux (System Admin), Serverless (Lambda/DynamoDB)
 - **DevOps & Tooling:** Terraform (IaC), Docker, Git/GitHub Actions (CI/CD)
@@ -21,11 +14,13 @@ Computer Science student at Arizona State University (4.0 GPA) pursuing backend 
 
 ## 📊 Projects
 **Serverless Portfolio:**
-- Deployed a high-availability personal site using S3, CloudFront, HTML Frontend, and DynamoDB + Lamdba backend.
+- Deployed a high-availability static site using S3, CloudFront, HTML Frontend, Terraform (IaC) for availability and DynamoDB + Lamdba backend
+- Configuring DNS for my custom domain
+- Securing the site with HTTPS via SSL certificate
 - [Repository Link](https://github.com/hasansyedCS/hasansyed.dev) | [Live Deployment](https://hasansyed.dev)
   
 **URL Shortener:** 
-- Using Backend and Cloud knowledge to create a URL shortener (WIP).
+- Using Backend and Cloud knowledge to create a URL shortener (WIP)
 
 ---
 
