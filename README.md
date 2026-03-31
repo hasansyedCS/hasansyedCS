@@ -20,10 +20,10 @@ Computer Science student at Arizona State University (4.0 GPA) pursuing backend 
 ---
 
 ## 📊 Projects
-- **Serverless Portfolio:**
-  Deployed a high-availability personal site using S3, CloudFront, HTML Frontend, and DynamoDB + Lamdba backend.
-  [Repository Link](https://github.com/hasansyedCS/hasansyed.dev) | [Live Deployment](https://hasansyed.dev)
-- **URL Shortener:** Using Backend and Cloud knowledge to create a URL shortener (WIP).
+**Serverless Portfolio:**
+- Deployed a high-availability personal site using S3, CloudFront, HTML Frontend, and DynamoDB + Lamdba backend.
+- [Repository Link](https://github.com/hasansyedCS/hasansyed.dev) | [Live Deployment](https://hasansyed.dev)
+**URL Shortener:** Using Backend and Cloud knowledge to create a URL shortener (WIP).
 
 ---
 
