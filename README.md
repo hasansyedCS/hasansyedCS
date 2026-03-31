@@ -21,7 +21,7 @@ Computer Science student at Arizona State University (4.0 GPA) pursuing cloud en
 
 ## 📊 Active Builds
 - **Serverless Portfolio:** Deploying a high-availability personal site using S3, CloudFront, and Route53.
-- **VPC Blueprint:** Using Terraform for multi-tier AWS network environments.
+- **URL Shortener** Using Backend and Cloud knowledge to create a URL shortener.
 
 ---
 
