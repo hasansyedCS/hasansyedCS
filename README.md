@@ -15,8 +15,8 @@ Computer Science student at Arizona State University (4.0 GPA) pursuing backend 
 ## 📊 Projects
 **Serverless Portfolio + Cloud Resume Project:**
 - Deployed a high-availability static site using S3, CloudFront, HTML Frontend, Terraform (IaC) for availability and DynamoDB + Lambda backend
-- Configuring DNS for my custom domain
-- Securing the site with HTTPS via SSL certificate
+- Configured DNS for my custom domain
+- Secured the site with HTTPS via SSL certificate
 - [Repository Link](https://github.com/hasansyedCS/hasansyed.dev) | [Live Deployment](https://hasansyed.dev)
   
 **URL Shortener:** 
