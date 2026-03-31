@@ -1,7 +1,6 @@
 # ☁️ Hasan Syed
 
-Computer Science student at Arizona State University (4.0 GPA) pursuing cloud engineering. Currently building hands-on projects using AWS and Infrastructure as Code.
-
+Computer Science student at Arizona State University (4.0 GPA) pursuing backend + cloud engineering. Currently building projects using AWS (S3, Cloudfront, Lambda) and Python.
 ---
 
 ## 🔭 Current Focus
