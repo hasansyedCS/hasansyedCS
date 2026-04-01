@@ -11,7 +11,7 @@ Computer Science student at Arizona State University (4.0 GPA) pursuing backend 
 
 ## 💻 Skills
 - **Cloud & Platforms:** AWS (S3 + CloudFront), Linux (Bash, CLI), Serverless (Lambda/DynamoDB)
-- **DevOps & Tooling:** Terraform (IaC), Docker, Git/GitHub Actions (CI/CD)
+- **DevOps & Tooling:** Terraform (IaC), Git/GitHub Actions (CI/CD)
 - **Languages:** Python, C++, SQL (PostgreSQL/RDS)
 - **Other Interests:** Japanese Literature & Media, Fitness, Creative Writing
 
