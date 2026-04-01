@@ -18,8 +18,8 @@ Computer Science student at Arizona State University (4.0 GPA) pursuing backend 
 ---
 
 ## 📊 Projects
-**Serverless Portfolio + Cloud Resume Project:**
-- Built static portfolio + resume on S3 + CloudFront achieving sub-100ms global latency with 99.9% availability
+**Serverless Portfolio:**
+- Built static portfolio on S3 + CloudFront achieving sub-100ms global latency with 99.9% availability
 - Implemented visitor counter using API Gateway, Lambda (Python), and DynamoDB with <200ms response time
 - Managed 100% of infrastructure as code with Terraform; automated deployments via GitHub Actions
 - Secured with HTTPS via ACM, custom domain hasansyed.dev managed in Porkbun
