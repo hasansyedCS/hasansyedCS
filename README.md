@@ -9,7 +9,7 @@ Computer Science student at Arizona State University (4.0 GPA) pursuing backend 
 
 ---
 
-## 💻 Skills
+##  Skills
 - **Cloud & Platforms:** AWS (S3 + CloudFront), Linux (Bash, CLI), Serverless (Lambda/DynamoDB)
 - **DevOps & Tooling:** Terraform (IaC), Git/GitHub Actions (CI/CD)
 - **Languages:** Python, C++, SQL (PostgreSQL/RDS)
@@ -17,7 +17,7 @@ Computer Science student at Arizona State University (4.0 GPA) pursuing backend 
 
 ---
 
-## 📊 Projects
+## Projects
 **Serverless Portfolio:**
 - Built static portfolio on S3 + CloudFront achieving sub-100ms global latency with 99.9% availability
 - Implemented visitor counter using API Gateway, Lambda (Python), and DynamoDB with <200ms response time
@@ -32,7 +32,7 @@ Computer Science student at Arizona State University (4.0 GPA) pursuing backend 
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 - Portfolio: [https://hasansyed.dev](https://hasansyed.dev)
 - LinkedIn: [linkedin.com/in/hasansyedCS](https://linkedin.com/in/hasansyedCS)
 - Email: hasansyed730@gmail.com
