@@ -5,7 +5,7 @@
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)](https://github.com/hasansyedCS/hasansyed.dev/tree/main/infrastructure)
 [![AWS](https://img.shields.io/badge/AWS-SAA--C03-orange)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-Computer Science student at Arizona State University (4.0 GPA) pursuing backend + cloud engineering. Currently building projects using AWS (S3, CloudFront, DynamoDB, Lambda) and Python.
+Computer Science student at Arizona State University pursuing backend + cloud engineering. Currently building projects using AWS (S3, CloudFront, DynamoDB, Lambda) and Python.
 
 ---
 
