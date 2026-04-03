@@ -12,7 +12,7 @@ Computer Science student at Arizona State University pursuing backend + cloud en
 ##  Skills
 - **Cloud & Platforms:** AWS (S3 + CloudFront), Linux (Bash, CLI), Serverless (Lambda/DynamoDB)
 - **DevOps & Tooling:** Terraform (IaC), Git/GitHub Actions (CI/CD)
-- **Languages:** Python, C++, SQL (PostgreSQL/RDS)
+- **Languages:** Python, HCL, SQL (PostgreSQL/RDS)
 - **Other Interests:** Japanese Literature & Media, Fitness, Creative Writing
 
 ---
