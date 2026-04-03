@@ -18,17 +18,18 @@ Computer Science student at Arizona State University pursuing backend + cloud en
 ---
 
 ## Projects
-**Serverless Portfolio:**
+**hasansyed.dev - Serverless Portfolio:**
 - Built static portfolio on S3 + CloudFront achieving sub-100ms global latency with 99.9% availability
 - Implemented visitor counter using API Gateway, Lambda (Python), and DynamoDB with <200ms response time
 - Managed 100% of infrastructure as code with Terraform; automated deployments via GitHub Actions
 - Secured with HTTPS via ACM, custom domain hasansyed.dev managed in Porkbun
 - [Repository Link](https://github.com/hasansyedCS/hasansyed.dev) | [Live Deployment](https://hasansyed.dev)
   
-**URL Shortener:** 
+**LinkLynx - URL Shortener:** 
 - Building REST API with FastAPI + PostgreSQL + Redis for URL shortening with click analytics
 - Containerizing with Docker; infrastructure as code with Terraform
 - Targeting deployment on AWS ECS Fargate
+- [Repository Link](https://github.com/hasansyedCS/LinkLynx)
 
 ---
 
