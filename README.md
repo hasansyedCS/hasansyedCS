@@ -3,7 +3,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-hasansyed.dev-blue)](https://hasansyed.dev)
 [![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF)](https://github.com/hasansyedCS/hasansyed.dev/actions)
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)](https://github.com/hasansyedCS/hasansyed.dev/tree/main/infrastructure)
-[![AWS](https://img.shields.io/badge/AWS-SAA--C03-orange)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 Computer Science student at Arizona State University pursuing backend + cloud engineering. Currently building projects using AWS (S3, CloudFront, DynamoDB, Lambda) and Python.
 
@@ -30,4 +29,4 @@ Computer Science student at Arizona State University pursuing backend + cloud en
 ## Connect with Me
 - Portfolio: [https://hasansyed.dev](https://hasansyed.dev)
 - LinkedIn: [linkedin.com/in/hasansyedCS](https://linkedin.com/in/hasansyedCS)
-- Email: hasansyed730@gmail.com
+- Email: hasansyed730@gmail
