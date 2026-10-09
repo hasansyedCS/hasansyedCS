@@ -16,7 +16,7 @@ Computer Science student at Arizona State University pursuing software developme
 
 ---
 
-# Projects
+## Projects
 **hasansyed.dev - Serverless Portfolio:**
 - Built static portfolio on S3 + CloudFront with low latency and high availability
 - Implemented visitor counter using API Gateway, Lambda (Python), and DynamoDB
