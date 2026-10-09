@@ -29,4 +29,4 @@ Computer Science student at Arizona State University pursuing software developme
 ## Connect with Me
 - Portfolio: [https://hasansyed.dev](https://hasansyed.dev)
 - LinkedIn: [linkedin.com/in/hasansyedCS](https://linkedin.com/in/hasansyedCS)
-- Email: hasansyed730@gmail
+- Email: hasansyed730@gmail.com
