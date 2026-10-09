@@ -9,9 +9,9 @@ Computer Science student at Arizona State University pursuing software developme
 ---
 
 ##  Skills
-- **Cloud & Platforms:** AWS (S3 + CloudFront), Linux (Bash, CLI), Serverless (Lambda/DynamoDB)
+- **Cloud & Platforms:** AWS (S3 + CloudFront), Docker, Linux (Bash, CLI), Serverless (Lambda/DynamoDB)
 - **DevOps & Tooling:** Terraform (IaC), Git/GitHub Actions (CI/CD)
-- **Languages:** Python, HCL, SQL (PostgreSQL/RDS)
+- **Languages:** Python, HCL
 - **Other Interests:** Literature, Movies, Fitness, Creative Writing
 
 ---
@@ -21,7 +21,7 @@ Computer Science student at Arizona State University pursuing software developme
 - Built static portfolio on S3 + CloudFront with low latency and high availability
 - Implemented visitor counter using API Gateway, Lambda (Python), and DynamoDB
 - Managed 100% of infrastructure as code with Terraform; automated deployments via GitHub Actions
-- Secured with HTTPS via ACM, custom domain hasansyed.dev managed in Clouflare
+- Secured with HTTPS via ACM, custom domain hasansyed.dev managed in Cloudflare
 - [Repository Link](https://github.com/hasansyedCS/hasansyed.dev) | [Live Deployment](https://hasansyed.dev)
 
 ---
