@@ -26,10 +26,11 @@ Computer Science student at Arizona State University pursuing software developme
 
 **Lumira - Local Media Review Aggregation:**
 - IN PROGRESS...
-- Containerization with Docker.
-- Import CSV from Letterboxd, Hardcover, Goodreads.
-- Categorize media by type and 
-- Premium plan for cloud storage in AWS with Stripe payment authentication
+- Self-host on local machine with containerization via Docker
+- Import CSV from Letterboxd, Hardcover, Goodreads
+- Give media a rating out of 10 with half points
+- RESTful API using Python and FastAPI with PostgreSQL persistence and validated CRUD endpoints
+- Optional cloud storage in AWS with Stripe powered subscriptions
 - [Repository Link](https://github.com/hasansyedCS/lumira) | STATUS - NOT DEPLOYED
 
 ---
