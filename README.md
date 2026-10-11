@@ -9,10 +9,10 @@ Computer Science student at Arizona State University pursuing software developme
 ---
 
 ##  Skills
-- **Cloud & Platforms:** AWS (S3 + CloudFront), Docker, Linux (Bash, CLI), Serverless (Lambda/DynamoDB)
-- **DevOps & Tooling:** Terraform (IaC), Git/GitHub Actions (CI/CD)
-- **Languages:** Python, HCL
-- **Other Interests:** Literature, Movies, Fitness, Creative Writing
+- Languages: Python, SQL 
+- Software Development: REST APIs, FastAPI, PostgreSQL
+- Cloud & Infrastructure: AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB), Terraform
+- Developer Tools: Neovim, Docker, Linux, Bash, GitHub Actions (CI/CD), Typst, Git
 
 ---
 
