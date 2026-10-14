@@ -24,11 +24,9 @@ Computer Science student at Arizona State University pursuing software developme
 - Secured with HTTPS via ACM, custom domain hasansyed.dev managed in Cloudflare
 - [Repository Link](https://github.com/hasansyedCS/hasansyed.dev) | [Live Deployment](https://hasansyed.dev)
 
-**Lumira - Local Media Review Aggregation:**
+**Lumira - Local-first Book Review Software:**
 - IN PROGRESS...
 - Self-host on local machine with containerization via Docker
-- Import CSV from Letterboxd, Hardcover, Goodreads
-- Give media a rating out of 10 with half points
 - RESTful API using Python and FastAPI with PostgreSQL persistence and validated CRUD endpoints
 - Optional cloud storage in AWS with Stripe powered subscriptions
 - [Repository Link](https://github.com/hasansyedCS/lumira) | STATUS - NOT DEPLOYED
