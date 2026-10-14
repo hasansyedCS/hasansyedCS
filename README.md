@@ -2,7 +2,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hasansyed.dev-blue)](https://hasansyed.dev)
 [![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF)](https://github.com/hasansyedCS/hasansyed.dev/actions)
-[![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)](https://github.com/hasansyedCS/hasansyed.dev/tree/main/terraform)
 
 Computer Science student at Arizona State University pursuing software development. Currently building projects using Python and AWS (S3, CloudFront, DynamoDB, Lambda) using infrastructure as code (IaC) with terraform.
 
